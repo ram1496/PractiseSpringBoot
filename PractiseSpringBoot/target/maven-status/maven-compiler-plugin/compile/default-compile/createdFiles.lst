@@ -1,0 +1,5 @@
+com\springboot\practise\configuration\CurrencyServiceConfiguration.class
+com\springboot\practise\restcontroller\CourseController.class
+com\springboot\practise\PractiseApplication.class
+com\springboot\practise\restcontroller\CurrencyConfigurationController.class
+com\springboot\practise\datamodel\Course.class
